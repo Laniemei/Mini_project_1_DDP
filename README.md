@@ -7,7 +7,7 @@ Nim : 2509116109
 
 Prodi : sistem informasi (kelas C)
 
-# Flowchart Proses Beasiswa
+# Flowchart Sistem Informasi Pengelolaan Beasiswa Kampus
 ![1757839636742 Screenshot_20250914-154820](https://github.com/user-attachments/assets/8e0a5acc-4bcf-4534-960f-bb18ace1ef1b)
 berikut adalah alur kerja (flowchart) dari sistem pengelolaan beasiswa kampus :
 
