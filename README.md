@@ -14,7 +14,7 @@ berikut adalah alur kerja (flowchart) dari sistem pengelolaan beasiswa kampus :
 
 1.Mulai
 
-2.Data calon penerima beasiswa,masuknya data-data awal pendaftar beasiswa(nama,status dokumen,status lolos seleksi,status ipk)
+2.Data calon penerima beasiswa,masuknya data-data awal pendaftar beasiswa
 
 3.Pendaftaran dan pengumpulan dokumen,proses pendaftar mengirimkan dokumen yang dibutuhkan
 
