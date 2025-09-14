@@ -8,22 +8,21 @@ Nim : 2509116109
 Prodi : sistem informasi (kelas C)
 
 # Flowchart Sistem Informasi Pengelolaan Beasiswa Kampus
-![1757839636742 Screenshot_20250914-154820](https://github.com/user-attachments/assets/8e0a5acc-4bcf-4534-960f-bb18ace1ef1b)
+<img width="1006" height="591" alt="Flowchart_miniproject drawio" src="https://github.com/user-attachments/assets/bc9f8366-5743-4e7a-a539-6bcb25273de0" />
+
 berikut adalah alur kerja (flowchart) dari sistem pengelolaan beasiswa kampus :
 
 1.Mulai
 
-2.Sistem informasi pengelolaan beasiswa kampus,sistem dimulai
+2.Data calon penerima beasiswa,masuknya data-data awal pendaftar beasiswa
 
-3.Data calon penerima beasiswa,masuknya data-data awal pendaftar beasiswa
+3.Pendaftaran dan pengumpulan dokumen,proses pendaftar mengirimkan dokumen yang dibutuhkan
 
-4.Pendaftaran dan pengumpulan dokumen,proses pendaftar mengirimkan dokumen yang dibutuhkan
+4.Seleksi dan penilaian,tahap seleksi administrasi dan,wawancara, dan penilaian
 
-5.Seleksi dan penilaian,tahap seleksi administrasi dan,wawancara, dan penilaian
+5.Pencairan dana dan monitoring,memeriksa kelayakan pendaftar (misalnya,berdasarkan IPK) dan monitoring
 
-6.Pencairan dana dan monitoring,memeriksa kelayakan pendaftar (misalnya,berdasarkan IPK) dan monitoring
-
-7.Proses pengelolaan beasiswa selesai,semua tahapan seleksi selesai
+6.ditetapkan sebagai penerima beasiswa,pendaftar terpilih untuk menerima beasiswa
 
 8.Selesai
 
